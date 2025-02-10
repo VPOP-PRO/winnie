@@ -118,7 +118,7 @@ Enter your roast below.
 Tell me what we’re doing wrong. Think along the lines of formatting, our deployment processes or even SEO. Be brutal.
 ```
 
-## 🏆 Submission
+## 📧 Submission
 
 Before you submit, feel free to add any other changes or improvements.
 
